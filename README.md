@@ -7,5 +7,10 @@ This project dives into Formula 1 data using modern tools to predict race outcom
 Utilizing the Ergast API and FastF1 Python Package, our research analyzes Formula 1 data from 1951 to 2023, detailing races, competition results, participant info, and performance metrics like lap times and pit stops. The dataset covers race specifics, circuit details, and historical evolution, reflecting track changes and safety standards. It also includes comprehensive information on constructors, team performance, driver careers, and performance metrics crucial for understanding race strategies and driver skills in Formula 1.
 
 ## Technologies and Libraries used:
-
+Programming Language - Python <br>
+pandas : For Data manipulation and analysis <br>
+matplotlib : Plotting library for creating visualizations <br>
+seaborn : Data visualization library based on matplotlib, for statistical graphics <br>
+csv : Module providing classes for reading and writing CSV files<br>
+scikit-learn : Python library, providing an array of machine learning algorithms and utilities for streamlined model development, assessment, and implementation <br>
 
