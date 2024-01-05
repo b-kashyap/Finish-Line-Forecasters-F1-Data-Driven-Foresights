@@ -14,3 +14,5 @@ seaborn : Data visualization library based on matplotlib, for statistical graphi
 csv : Module providing classes for reading and writing CSV files<br>
 scikit-learn : Python library, providing an array of machine learning algorithms and utilities for streamlined model development, assessment, and implementation <br>
 
+## Feature Engineering and Exploratory Data Analysis:
+The report underwent rigorous data preparation steps, including removal of missing values, non-finish instances, outliers, and redundant data, ensuring a clean and reliable dataset. Analysis focused on the 2016-2023 timeframe, merging datasets for comprehensive driver insights while employing exploratory data analysis (EDA) tools like bar charts and correlation matrices. Visualizations highlighted dominant racing teams, key tracks, and experienced drivers, with the correlation matrix revealing valuable variable relationships. While correlation aids understanding, caution was emphasized regarding inferring causation. Overall, EDA provided rich insights for stakeholders in Formula 1, aiding strategies, predictions, and a deeper appreciation of the sport's nuances.
