@@ -16,3 +16,11 @@ scikit-learn : Python library, providing an array of machine learning algorithms
 
 ## Feature Engineering and Exploratory Data Analysis:
 The report underwent rigorous data preparation steps, including removal of missing values, non-finish instances, outliers, and redundant data, ensuring a clean and reliable dataset. Analysis focused on the 2016-2023 timeframe, merging datasets for comprehensive driver insights while employing exploratory data analysis (EDA) tools like bar charts and correlation matrices. Visualizations highlighted dominant racing teams, key tracks, and experienced drivers, with the correlation matrix revealing valuable variable relationships. While correlation aids understanding, caution was emphasized regarding inferring causation. Overall, EDA provided rich insights for stakeholders in Formula 1, aiding strategies, predictions, and a deeper appreciation of the sport's nuances.
+
+## Model Development and Evaluation:
+Seven models were built, including XG Boost, Random Forest, MLR, Ridge regression, Lasso regression, Linear regression, and Support Vector Regression. Notably, Random Forest Regression (RFR) emerged as robust in deciphering complexities within Formula 1 data using ensemble learning. Additionally, XGradient Boosting Regression (XGBR) demonstrated iterative refinement, showcasing adaptability for precision. Moving beyond numerical metrics, qualitative nuances highlighted the distinct impacts of each algorithm. Lap times and grid positions held significant sway, while Constructor ID surfaced as a nuanced factor, revealing the pivotal role of team strategies, influenced by constructors, in determining race outcomes.
+
+## Future Scope:
+1. Weather Conditions: Our goal is to refine predictive models by integrating real-time weather data, enabling adaptive strategies during races based on evolving weather conditions. <br>
+2. Regulation Changes: We aim to proactively adapt our models to upcoming rule changes, providing insights into their potential impact on team performance and race outcomes.<br>
+3. Technological Advancements: Exploring integration of the latest innovations in car design, simulation tools, and tire compounds to offer insights into how these advancements might reshape Formula 1 dynamics, ensuring our models stay at the forefront of analysis.<br>
